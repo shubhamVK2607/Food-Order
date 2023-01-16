@@ -1,0 +1,21 @@
+.shimmer-card {
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  background-color: rgb(212, 208, 208);
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+
+.menuItem2 {
+    margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 70vw;
+  height: auto;
+  justify-content: center;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center; */
+}
